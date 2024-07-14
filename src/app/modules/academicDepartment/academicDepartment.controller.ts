@@ -13,7 +13,7 @@ const insertIntoDB = catchAsync(async (req: Request, res: Response) => {
   sendResponse<AcademicDepartment>(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Academic Semester Created',
+    message: 'Academic Department Created',
     data: result,
   });
 });
@@ -31,7 +31,7 @@ const getAllFromDB = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Academic Semester data fetched',
+    message: 'Academic Department data fetched',
     meta: result.meta,
     data: result.data,
   });
@@ -43,7 +43,7 @@ const getDataById = catchAsync(async (req: Request, res: Response) => {
   sendResponse(res, {
     statusCode: httpStatus.OK,
     success: true,
-    message: 'Academic Semester data fetched',
+    message: 'Academic Department data fetched',
     data: result,
   });
 });

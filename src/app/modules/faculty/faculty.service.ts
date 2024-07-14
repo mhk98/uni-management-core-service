@@ -158,6 +158,9 @@ const removeCourses = async (
   return assignCoursesData;
 };
 
+const myCourses = async () => {
+  console.log('my courses');
+};
 export const FacultyService = {
   insertIntoDB,
   getAllFromDB,
@@ -166,4 +169,5 @@ export const FacultyService = {
   deleteFromDB,
   assignCourses,
   removeCourses,
+  myCourses,
 };

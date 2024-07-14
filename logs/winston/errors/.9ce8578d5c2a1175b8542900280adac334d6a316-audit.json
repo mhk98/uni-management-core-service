@@ -1,0 +1,25 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\Apollo PH Level-2\\uni-management-core-service\\logs\\winston\\errors\\.9ce8578d5c2a1175b8542900280adac334d6a316-audit.json",
+    "files": [
+        {
+            "date": 1720978969749,
+            "name": "G:\\Apollo PH Level-2\\uni-management-core-service\\logs\\winston\\errors\\phu-2024-14-07-23-error.log",
+            "hash": "59f8bfc2b515af98b5b86cf1b508b38a0e81615e1b7b32024f8402506bef24ea"
+        },
+        {
+            "date": 1720981470465,
+            "name": "G:\\Apollo PH Level-2\\uni-management-core-service\\logs\\winston\\errors\\phu-2024-15-07-00-error.log",
+            "hash": "0d6c01dec1e32ad76d11c874f5489f2f66a0148f1c0d69c31eee1d46004273f9"
+        },
+        {
+            "date": 1720984533679,
+            "name": "G:\\Apollo PH Level-2\\uni-management-core-service\\logs\\winston\\errors\\phu-2024-15-07-01-error.log",
+            "hash": "df8897c4c805b36932c91eca4863df1a70b27c6974eb0dea0044ab33f58f3ed2"
+        }
+    ],
+    "hashType": "sha256"
+}
