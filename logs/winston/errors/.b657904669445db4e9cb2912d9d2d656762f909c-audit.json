@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\.b657904669445db4e9cb2912d9d2d656762f909c-audit.json",
+    "files": [
+        {
+            "date": 1717177523472,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-31-05-23-error.log",
+            "hash": "a6714c8d0082c38748868f7b4730b7f9ffa32ceedf5f1ec5f3ab50e2e59dacff"
+        },
+        {
+            "date": 1717179298960,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-01-06-00-error.log",
+            "hash": "1a00147bd5e25f52501e99dfd0acdc2dce11dd20a092c9016ff936431408f6a0"
+        },
+        {
+            "date": 1717182342956,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-01-06-01-error.log",
+            "hash": "cbfabe4f816b1e55fc999c620ba8453bd8c5767579ffb73f015d4636b6490dda"
+        },
+        {
+            "date": 1717330621887,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-02-06-18-error.log",
+            "hash": "75a45dfb14e98ebed5f69487d04d1ae884635eecdce65f1de9aee32147c7068b"
+        },
+        {
+            "date": 1717337733296,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-02-06-20-error.log",
+            "hash": "f09cd07179cf15867238447d1a48fe0d06c648453e3ead7cd44295308f9196b3"
+        },
+        {
+            "date": 1717343112828,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-02-06-21-error.log",
+            "hash": "e914eb6789bdfa44b8d456d1ac6a7da3367c5d57e35fcad1191956c145991f73"
+        },
+        {
+            "date": 1717344421370,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-02-06-22-error.log",
+            "hash": "320077e6046b753f3e32671ad31b66370708bd27a21e42fdd7e479582059b93a"
+        },
+        {
+            "date": 1717756768421,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-07-06-16-error.log",
+            "hash": "a7bf57cfacf23e43c597ad81ccc3a4800e124c56f4c62ef9959be8e04b454dd8"
+        },
+        {
+            "date": 1717943797119,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-09-06-20-error.log",
+            "hash": "378d73f885d150a2615da16b089d48adad1e33e28b68afebf9c74dd32b548250"
+        },
+        {
+            "date": 1717952405387,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-09-06-23-error.log",
+            "hash": "923ad3b76d440063cfd21f6e67cd929baee7821cc5beca5a064d99b93df6530a"
+        },
+        {
+            "date": 1718258077686,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-13-06-11-error.log",
+            "hash": "ea87c2488e9c3226ca7e104166d675612377272bac98bf277b1cfa3fd70ebf03"
+        },
+        {
+            "date": 1718383101529,
+            "name": "G:\\Apollo PH Level-2\\university-management-core-service-starter\\logs\\winston\\errors\\phu-2024-14-06-22-error.log",
+            "hash": "bf8fcb89ebc231891d6e63e283fe7c2d14290b543b1aec214d22b8923e0193a2"
+        }
+    ],
+    "hashType": "sha256"
+}
